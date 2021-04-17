@@ -5,7 +5,7 @@
 
 * apt-get install git
 
-* git clone https://github.com/emadstech/.git
+* git clone https://github.com/emadstech/emad.whc.git
 
 * pip3 install requests
 
